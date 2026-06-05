@@ -18,6 +18,7 @@ Access multiple LLMs through a single API endpoint with intelligent routing.
 |----------|--------|-------------|---------|
 | **[Token Landing](https://token-landing.com)** | GPT-4o, Claude, Gemini, Llama | Hybrid A-tier/value-tier routing, 40-70% cost savings | Pay per token |
 | OpenRouter | 200+ models | Largest model selection | Pay per token |
+| **[CoderPlan](https://coderplan.ai)** | Claude, GPT, Gemini, DeepSeek, Grok | Unified gateway, OpenAI-compatible | Pay per token |
 | Martian | Multiple | Automatic model selection | Pay per token |
 
 ## Direct Providers
