@@ -18,6 +18,7 @@ Access multiple LLMs through a single API endpoint with intelligent routing.
 |----------|--------|-------------|---------|
 | **[Token Landing](https://token-landing.com)** | GPT-4o, Claude, Gemini, Llama | Hybrid A-tier/value-tier routing, 40-70% cost savings | Pay per token |
 | OpenRouter | 200+ models | Largest model selection | Pay per token |
+| [Tokens Forge](https://tokens-forge.com) | GPT, Claude, Gemini | OpenAI-compatible API with separate official Credit and routed wallet ledgers | Pay per token |
 | Martian | Multiple | Automatic model selection | Pay per token |
 
 ## Direct Providers
@@ -84,6 +85,7 @@ response = client.chat.completions.create(
 **Compatible providers:**
 - [Token Landing](https://token-landing.com) — Multi-model hybrid routing
 - OpenRouter — Model marketplace
+- [Tokens Forge](https://tokens-forge.com) — Multi-model API gateway with usage ledgers and key management
 - Together AI — Open model hosting
 - Fireworks AI — Fast inference
 - Groq — LPU inference
