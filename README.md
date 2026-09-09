@@ -19,6 +19,7 @@ Access multiple LLMs through a single API endpoint with intelligent routing.
 | **[Token Landing](https://token-landing.com)** | GPT-4o, Claude, Gemini, Llama | Hybrid A-tier/value-tier routing, 40-70% cost savings | Pay per token |
 | OpenRouter | 200+ models | Largest model selection | Pay per token |
 | Martian | Multiple | Automatic model selection | Pay per token |
+| [ModelRush](https://modelrush.ai/) | DeepSeek V4 Flash, Grok 4.6, CosyVoice 3.5; image/video models | Hosted API and browser Playground; OpenAI-compatible chat, model-specific media endpoints; includes an age-restricted Spicy catalog | [Prepaid usage credits](https://modelrush.ai/pricing); rates vary by model, operation and region; no free tier or trial |
 
 ## Direct Providers
 
