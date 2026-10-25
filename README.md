@@ -19,6 +19,7 @@ Access multiple LLMs through a single API endpoint with intelligent routing.
 | **[Token Landing](https://token-landing.com)** | GPT-4o, Claude, Gemini, Llama | Hybrid A-tier/value-tier routing, 40-70% cost savings | Pay per token |
 | OpenRouter | 200+ models | Largest model selection | Pay per token |
 | Martian | Multiple | Automatic model selection | Pay per token |
+| **[l7shop](https://l7shop.xyz)** | DeepSeek V4.1-Flash-1017, GLM-5.3, Kimi K3 | 0.1x rate (10% of official price); OpenAI + Anthropic dual protocol; per-call usage logs | Pay per token (CNY, Alipay/WeChat) |
 
 ## Direct Providers
 
