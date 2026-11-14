@@ -88,6 +88,7 @@ response = client.chat.completions.create(
 - Fireworks AI — Fast inference
 - Groq — LPU inference
 - Anyscale — Scalable endpoints
+- [SandBase](https://www.sandbase.ai/docs/getting-started/quickstart) — GPT, Claude, and Gemini via one key, with usage-based pricing and separate multimodal and data APIs.
 
 ## Resources
 
